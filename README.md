@@ -13,7 +13,7 @@ Ook kan je zelf bepalen hoe data wordt opgehaald wat weer invloed heeft op de ux
 - Server-side generator: pagina's worden bij elk nieuwe request opnieuw gegenereed (berichten, inlogstatus etc).
 
 ### Content Management eXperience
-Ik gebruikte hier ook weer supabase. Dit was opzich niet heel lastig (met tutorial). Dit is hetzelfde bij nextjs.
+Ik gebruikte hier ook weer supabase. Dit was opzich niet heel lastig (met tutorial). Dit is hetzelfde bij astro.
 
 <img width="2880" height="1624" alt="image" src="https://github.com/user-attachments/assets/47da2ec3-471b-4691-994a-6f69bdd21702" />
 
